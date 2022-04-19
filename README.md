@@ -10,5 +10,5 @@ W czasie stalym oraz wypisywanie w czasie linowym.
 It also provides following operations on trains in constant time:
   - reversing a train
   - mergeing trais
-  - adding/removing car to/from begging/end of train
-and writing to output in the linear time.
+  - adding/removing car to/from begging/end of train   
+  - and writing to output in the linear time.
